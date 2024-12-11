@@ -15,8 +15,8 @@ This program follows the assigned topic of a simulated system where students man
 
 # How Could I Play With This Program?
 
-1. Install the folder in "releases".
+1. Install the folder in "Releases".
 2. Install Visual Studio Code. (https://code.visualstudio.com/download)
 3. Follow these instructions in this link (Get the GCC compiler): (https://code.visualstudio.com/docs/languages/cpp)
-4. Upload only main.cpp into Visual Studio Code and follow the instructions in the previous link when neccesary.
+4. Upload the main.cpp into Visual Studio Code and follow the instructions in the previous link when neccesary.
 5. Compile, run, and you are good to go!
