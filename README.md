@@ -8,10 +8,9 @@ This program follows the assigned topic of a simulated system where students man
 2. Inputting details to get information on their income sources and expenses.
 3. Has reports that include amount, category, and date of each extension.
 4. Veiwing the current balance.
-5. Generate summaries of income.
-6. Generate income summaries over yearly, monthly, or overall period of time.
-7. Functionaliy to delete certain reports.
-8. Filter options to find specific transactions.
+5. Generate income summaries over yearly, monthly, or overall period of time.
+6. Functionaliy to delete certain reports.
+7. Filter options to find specific transactions.
 
 # How Could I Play With This Program?
 
