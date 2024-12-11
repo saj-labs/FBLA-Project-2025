@@ -7,7 +7,7 @@ This program follows the assigned topic of a simulated system where students man
 1. Tracking account balances, incomes, and expenses.
 2. Inputting details to get information on their income sources and expenses.
 3. Has reports that include amount, category, and date of each extension.
-4. Veiwing the current balance.
+4. Viewing the current balance.
 5. Generate income summaries over yearly, monthly, or overall period of time.
 6. Functionaliy to delete certain reports.
 7. Filter options to find specific transactions.
