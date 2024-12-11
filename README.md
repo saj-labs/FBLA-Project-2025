@@ -4,7 +4,7 @@ This project is meant to be submitted to FBLA for the Coding & Programming event
 
 This program follows the assigned topic of a simulated system where students manage their finances by:
 
-1. Tracing account balances, incomes, and expenses.
+1. Tracking account balances, incomes, and expenses.
 2. Inputting details to get information on their income sources and expenses.
 3. Has reports that include amount, category, and date of each extension.
 4. Veiwing the current balance.
